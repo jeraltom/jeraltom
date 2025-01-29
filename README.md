@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeraltom&label=Profile%20views&color=0e75b6&style=flat" alt="jeraltom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeraltom" alt="jeraltom" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jeraltom" alt="jeraltom" /></a> </p>
 
 - 🔭 I’m currently working on **I’m currently working on enhancing my skills in Java Full Stack Development and building a few personal projects to strengthen my expertise in Spring Framework, REST APIs, and frontend technologies.**
 
